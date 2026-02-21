@@ -164,7 +164,12 @@ autoprefixer (optional)
 * ☁️ Deployment (Render / Netlify)
 
 ---
+![Dashboard Screenshot](Screenshots/Create.png)
+![Dashboard Screenshot](Screenshots/Read.png)
+![Dashboard Screenshot](Screenshots/Update.png)
+![Dashboard Screenshot](Screenshots/Delete.png)
 
+---
 ## 👨‍💻 Author
 
 **Karthikeyan D**
