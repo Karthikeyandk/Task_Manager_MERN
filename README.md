@@ -173,7 +173,7 @@ autoprefixer (optional)
 ### Read
 ![Dashboard Screenshot](Screenshots/Read.png)
 
-### Upadate
+### Update
 ![Dashboard Screenshot](Screenshots/Update.png)
 
 ### Delete
