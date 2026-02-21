@@ -164,10 +164,21 @@ autoprefixer (optional)
 * ☁️ Deployment (Render / Netlify)
 
 ---
+
+### Screenshots
+
+## Create
 ![Dashboard Screenshot](Screenshots/Create.png)
+
+##Read
 ![Dashboard Screenshot](Screenshots/Read.png)
+
+## Upadate
 ![Dashboard Screenshot](Screenshots/Update.png)
+
+## Delete
 ![Dashboard Screenshot](Screenshots/Delete.png)
+
 
 ---
 ## 👨‍💻 Author
