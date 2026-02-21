@@ -165,18 +165,18 @@ autoprefixer (optional)
 
 ---
 
-### Screenshots
+## Screenshots
 
-## Create
+### Create
 ![Dashboard Screenshot](Screenshots/Create.png)
 
-##Read
+### Read
 ![Dashboard Screenshot](Screenshots/Read.png)
 
-## Upadate
+### Upadate
 ![Dashboard Screenshot](Screenshots/Update.png)
 
-## Delete
+### Delete
 ![Dashboard Screenshot](Screenshots/Delete.png)
 
 
